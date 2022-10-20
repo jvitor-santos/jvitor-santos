@@ -16,3 +16,6 @@
           <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
           <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />   
 </div>
+
+## Detalhes sobre minha conta GitHub:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jvitor-santos&show_icons=true)
