@@ -1,4 +1,4 @@
-## Olá, meu nome é <strong>João Vitor!</strong>
+## 🤖 Olá, meu nome é <strong>João Vitor!</strong>
 
 -📚💻 Estudante de Analise e Desenvolvimentos de Sistemas da Fatec Itapetininga
 
@@ -7,3 +7,7 @@
 <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 <a href="https://www.instagram.com/jvitor_santtos/" alt="Instagram">
 <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/jvitor_santtos/"/></a>
+
+## Conhecimento em:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+          
