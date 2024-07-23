@@ -1,6 +1,6 @@
 ## 🤖 Olá, meu nome é <strong>João Vitor!</strong>
 
--📚💻 Formado em Analise e Desenvolvimentos de Sistemas da Fatec Itapetininga
+-📚💻 Formado em Analise e Desenvolvimentos de Sistemas da Fatec Itapetininga<br>
 -📚💻 Cursando Pós Desenvolvimento Web no Instituto Federal Campus Itapetininga
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-santos-32003b1b1/)](https://www.linkedin.com/in/joão-santos-32003b1b1/)
